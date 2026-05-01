@@ -1,1 +1,4 @@
-Screenshots for the AeroNorth UK Tableau dashboard (Overview, Revenue, Operations).
+Screenshots used in the main README:
+- overview.png
+- revenue.png
+- operations.png
